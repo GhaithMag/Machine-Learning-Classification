@@ -1,7 +1,6 @@
 <h1 align="center">Création d'un modèle de Classification </h1>
 
-Le tutoriel a pour but d'enseigner à n'importe quel débutant en data dcience les étapes clès pour construire un algorithmes d'apprentissage automatique.
-Ici nous allons voir comment développer un modèle de classification.
+Ce tutoriel a pour but de montrer étape par étape la création, l'entraînement, l'évaluation et l'utilisation d'un modèle de classification.
 Pour rappel, un modèle de classification permet de prédire (comme son nom l'indique) une catégorie/une classe.
 Dans notre tutoriel nous allons essayer de prédire si oui ou non une patiente est atteinte du cancer du sein. 
 <p>Le tutoriel se trouve dans le notebook suivant 
